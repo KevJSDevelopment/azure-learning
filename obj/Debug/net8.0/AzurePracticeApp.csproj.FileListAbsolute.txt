@@ -27,3 +27,4 @@ C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\obj\Debug\net8.0\r
 C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\obj\Debug\net8.0\AzurePracticeApp.pdb
 C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\obj\Debug\net8.0\AzurePracticeApp.genruntimeconfig.cache
 C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\obj\Debug\net8.0\ref\AzurePracticeApp.dll
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\obj\Debug\net8.0\AzurePracticeApp.sourcelink.json
