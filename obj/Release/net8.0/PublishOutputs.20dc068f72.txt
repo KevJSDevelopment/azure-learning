@@ -1,0 +1,7 @@
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\AzurePracticeApp.exe
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\appsettings.Development.json
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\appsettings.json
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\AzurePracticeApp.dll
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\AzurePracticeApp.deps.json
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\AzurePracticeApp.runtimeconfig.json
+C:\Users\Kshhn\source\repos\AzurePracticeApp\AzurePracticeApp\bin\Publish\AzurePracticeApp.pdb
